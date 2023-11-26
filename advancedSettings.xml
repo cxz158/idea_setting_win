@@ -1,0 +1,9 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="terminal.type.ahead.latency.threshold" value="10" />
+      </map>
+    </option>
+  </component>
+</application>

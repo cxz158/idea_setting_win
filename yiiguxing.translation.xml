@@ -1,0 +1,93 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="349" />
+    <option name="newTranslationDialogWidth" value="916" />
+    <option name="newTranslationDialogX" value="1014" />
+    <option name="newTranslationDialogY" value="608" />
+    <histories>
+      <item value="多少" />
+      <item value="explore " />
+      <item value="As you may have guessed from the name of the application, Axon Bank concerns itself with the banking domain. The application consists of 2 aggregates: bank account and bank transfer. We have tried to find an appropriate balance between complexity and simplicity. The application is meant to be complex enough to showcase interesting building blocks provided by Axon Framework. But we did not want people to get lost in the business logic of the application.&#10;&#10;" />
+      <item value="As you may have guessed from the name of the application, Axon Bank concerns itself with the banking domain. The application consists of 2 aggregates: bank account and bank transfer. We have tried to find an appropriate balance between complexity and simplicity. The application is meant to be complex enough to showcase interesting building blocks provided by Axon Framework. But we did not want people to get lost in the business logic of the application." />
+      <item value="ERROR: transport library not found: dt_socket ERROR: JDWP Transport dt_socket failed to initialize, TRANSPORT_LOAD(509) JDWP exit error AGENT_ERROR_TRANSPORT_LOAD(196): No transports initialized [debugInit.c:750]" />
+      <item value="进位标志" />
+      <item value="进位" />
+      <item value="Inserts the specified element at the end of this deque. &lt;p&gt;This method is equivalent to {@link offerLast}. @param e the element to add @return {@code true} (as specified by {@link Queueoffer}) @throws NullPointerException if the specified element is null" />
+      <item value="If the specified key is not already associated with a value or is associated with null, associates it with the given non-null value. Otherwise, replaces the associated value with the results of the given remapping function, or removes if the result is {@code null}. This method may be of use when combining multiple mapped values for a key. For example, to either create or append a {@code String msg} to a value mapping:" />
+      <item value="mole" />
+      <item value="nole" />
+      <item value="Inserts the specified element into this priority queue." />
+      <item value="Variable" />
+      <item value="Pops an element from the stack represented by this deque. In other words, removes and returns the first element of this deque." />
+      <item value="Retrieves, but does not remove, the last element of this deque, or returns {@code null} if this deque is empty." />
+      <item value="Retrieves and removes the head of this queue. This method differs from {@link poll() poll()} only in that it throws an exception if this queue is empty." />
+      <item value="binary " />
+      <item value="representation " />
+      <item value="字母" />
+      <item value="Segment ID Gen Impl" />
+      <item value="Segment" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1664292521588" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1700972018996" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="260" />
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="1135" />
+    <option name="newTranslationDialogY" value="626" />
+    <histories>
+      <item value="A keymap for Windows and Linux (and macOS if you really want!) that rebinds common macOS 10.5+ shortcuts to non-Command keys. Some shortcuts aren't 1:1 replacements of modifier keys, so please check the key updates table." />
+      <item value="The transferer. Set only in constructor, but cannot be declared as final without further complicating serialization. Since this is accessed only at most once per public method, there isn't a noticeable performance penalty for using volatile instead of final here." />
+      <item value="declared" />
+      <item value="@param fair if true, waiting threads contend in FIFO order for access; otherwise the order is unspecified." />
+      <item value="synchronousQueue" />
+      <item value="synchronousQue" />
+      <item value="synchron" />
+      <item value="synchr" />
+      <item value="synch" />
+      <item value="syn" />
+      <item value="chronous" />
+      <item value="chro" />
+      <item value="c" />
+      <item value="cho" />
+      <item value="queue" />
+      <item value="que" />
+      <item value="Retrieves" />
+      <item value="preferable" />
+      <item value="currently" />
+      <item value="if the element cannot be added at this time due to capacity restrictions" />
+      <item value="Inserts the specified element into this queue, waiting if necessary for space to become available." />
+      <item value="Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions, returning {@code true} upon success and throwing an {@code IllegalStateException} if no space is currently available. When using a capacity-restricted queue, it is generally preferable to" />
+      <item value="Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions, returning {@code true} upon success and throwing an {@code IllegalStateException} if no space is currently available." />
+      <item value="When using a capacity-restricted queue, this method is generally preferable to {@link add}, which can fail to insert an element only by throwing an exception." />
+      <item value="capacity restrictions" />
+      <item value="available" />
+      <item value="violating" />
+      <item value="equivalent" />
+      <item value="Return a {@code Mono&lt;Void&gt;} which only replays complete and error signals" />
+      <item value="Return a {@code Mono&lt;Void&gt;} which only replays complete and error signals from this {@link Mono}." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
+      </map>
+    </option>
+  </component>
+</application>
